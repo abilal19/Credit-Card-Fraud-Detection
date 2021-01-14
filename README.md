@@ -1,1 +1,3 @@
 # Credit-Card-Fraud-Detection
+
+Perform supervised classification algorithms for credit card fraud detection. Steps involved: 1) Data cleaning and exploration. 2) Variable normalization 3) Upsampling techniques to deal with class imbalance issues. 4) Use filtering methods, Lasso Regression and PCA for feature extraction/engineering. 5) Perform Cross-validation with hyperparameter tuning to test the Accuracy, Kappa and F1 Score of the following algorithms applied: XGBoost Classifier, Logistic Regression and Decision Trees 6) XGBoost Classifier performed the best with accuracy: 99.93, F1 Score:  99.94, and Cohen Kappa score:  99.87
